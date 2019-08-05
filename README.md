@@ -11,7 +11,7 @@ Sample website with plenty of files for demos
 Sample Introduction
 
 ## Deployment
-asdfsadf
+Deployment informations
 
 ## Copyright
 sgfdsg
