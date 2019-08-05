@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tomas Podolak	tpodolak@email.com tomasTomas
 
 # THANKS
 
