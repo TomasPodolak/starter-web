@@ -15,5 +15,4 @@ Sample Introduction
 Deployment informations
 
 ## Copyright
-sgfdsg
-2019
+2019 All rights reserved
